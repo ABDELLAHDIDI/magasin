@@ -1,0 +1,2 @@
+#include "articlesolde.h"
+
